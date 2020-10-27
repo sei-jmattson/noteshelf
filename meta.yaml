@@ -1,0 +1,16 @@
+## notebook metadata
+# - id: relative/path/to/filename.ipynb
+#   name: override-filename
+#   description: defaults to readme in notebook folder
+#   maxSessionLimit: 0 #number of concurrent sessions for this notebook
+#   maxDurationMinutes: 120 # number of minutesb before session expires
+
+- path: one/analytic-a.ipynb
+  # name: onea
+  description: This is the A notebook
+  maxSessionLimit: 2
+
+- path: one/analytic-b.ipynb
+  # name: oneb
+  description: This is the B notebook
+  maxSessionLimit: 2

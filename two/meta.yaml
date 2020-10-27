@@ -1,0 +1,4 @@
+- path: janalytic.ipynb
+  name: Janalytic Silver
+  description: This analytic is the bullet.  It answers questions you don't even have!
+  maxSessionLimit: 2
